@@ -1,6 +1,7 @@
-Hi, I’m @sheikhjahmed
+Hi, I’m @sheikhjahmed.
 I’m interested in learning code languages which pertain to my interests, in order to find a way to contribute to the industries I'm most active in.
-I’m currently learning python on a basic level.
+I’m currently learning python on a basic level, but am seeking to broaden my breadth of coding knowledge.
+
 How to reach me:
  - sheikhjahmed@hotmail.com
 
